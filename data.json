@@ -6,6 +6,11 @@
       "isDone": true
     },
     {
+      "id": 2,
+      "text": "빨래",
+      "isDone": true
+    },
+    {
       "id": 3,
       "text": "제출",
       "isDone": false
