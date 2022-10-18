@@ -6,13 +6,8 @@
       "isDone": true
     },
     {
-      "id": 2,
-      "text": "빨래하기",
-      "isDone": true
-    },
-    {
       "id": 3,
-      "text": "과제제출",
+      "text": "제출",
       "isDone": false
     }
   ]
